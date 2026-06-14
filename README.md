@@ -1,11 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Embedded%20Developer&fontSize=40&fontColor=ffffff" />
 </p>
-# Ihor Zentsev
+<h1 align="center">Ihor Zentsev</h1>
 
+<p align="center">
 Embedded Software & Hardware Developer
+</p>
 
+<p align="center">
 Building embedded systems, IoT devices and electronics projects.
+</p>
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
