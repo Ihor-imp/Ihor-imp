@@ -43,72 +43,19 @@ Building embedded systems, IoT devices and electronics projects.
 
 ---
 
-## Technologies
+## Featured Projects
 
-**Languages**
+### 🏠 Smart Home Platform
+MQTT-based home automation system with FastAPI backend and ESP32 devices.
 
-* C
-* C++
+### 🔘 Button Driver
+Custom embedded button driver focused on event-based architecture.
 
-**Embedded**
+### 💡 LED Driver
+Reusable LED driver library for embedded applications.
 
-* ESP32
-* ESP8266
-* RP2040
-* PlatformIO
-* Arduino Framework
+### 🌡️ Humidity Monitoring System
+ESP-based environmental monitoring device.
 
-**Protocols**
-
-* UART
-* I2C
-* SPI
-* MQTT
-
-**Hardware**
-
-* KiCad
-* PCB Design
-* Electronics Prototyping
-
----
-
-## Projects
-
-* Smart Home Platform
-* Embedded Drivers
-* Custom Keyboard
-* IoT Devices
-* PCB Design Projects
-
----
-
-## Currently Learning
-
-* Embedded Architecture
-* ESP-IDF
-* STM32
-* RTOS
-* Modern Embedded C++
-
----
-
-## Goal
-
-To become a professional Embedded Engineer capable of developing complete hardware and software products.
-## Hi there 👋
-
-<!--
-**Ihor-imp/Ihor-imp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⌨️ Custom Keyboard (In Progress)
+Split RP2040 keyboard with custom firmware and hardware.
