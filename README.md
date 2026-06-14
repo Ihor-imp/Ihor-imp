@@ -72,3 +72,9 @@ ESP-based environmental monitoring device.
 
 ### ⌨️ Custom Keyboard (In Progress)
 Split RP2040 keyboard with custom firmware and hardware.
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ihor-imp/Ihor-imp/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
