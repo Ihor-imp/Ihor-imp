@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Embedded%20Developer&fontSize=40&fontColor=ffffff" />
+</p>
 # Ihor Zentsev
 
 Embedded Software & Hardware Developer
