@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT%20Image%2014%20%D1%87%D0%B5%D1%80%D0%B2.%202026%20%D1%80.%2C%2017_18_14.png" width="100%">
+  <img src="assets/banner.png.png" width="100%">
 </p>
 <h1 align="center">Ihor Zentsev</h1>
 
