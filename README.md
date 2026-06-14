@@ -10,6 +10,9 @@ Embedded Software & Hardware Developer
 <p align="center">
 Building embedded systems, IoT devices and electronics projects.
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ihor-imp&color=blueviolet&style=for-the-badge" />
+</p>
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
