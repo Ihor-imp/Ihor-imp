@@ -14,6 +14,12 @@ Building embedded systems, IoT devices and electronics projects.
   <img src="https://komarev.com/ghpvc/?username=Ihor-imp&color=blueviolet&style=for-the-badge" />
 </p>
 
+## Connect with Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@igarynyaaa)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ihor-imp)
+
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
